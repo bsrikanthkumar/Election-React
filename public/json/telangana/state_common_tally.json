@@ -1,0 +1,51 @@
+{
+    "totalresults": [
+    {
+    "state_id": 32,
+    "state_name": "TELANGANA",
+    "party_name": "BRS",
+    "lead": "0",
+    "won": "39",
+    "total": 39
+    },
+    {
+    "state_id": 32,
+    "state_name": "TELANGANA",
+    "party_name": "INC",
+    "lead": "0",
+    "won": "64",
+    "total": 64
+    },
+    {
+    "state_id": 32,
+    "state_name": "TELANGANA",
+    "party_name": "BJP",
+    "lead": "0",
+    "won": "8",
+    "total": 8
+    },
+    {
+    "state_id": 32,
+    "state_name": "TELANGANA",
+    "party_name": "AIMIM",
+    "lead": "0",
+    "won": "7",
+    "total": 7
+    },
+    {
+    "state_id": 32,
+    "state_name": "TELANGANA",
+    "party_name": "OTHERS",
+    "lead": "0",
+    "won": "1",
+    "total": 1
+    },
+    {
+    "state_id": 32,
+    "total_seats": 119,
+    "won_seats": 119,
+    "lead_seats": 0,
+    "total_count": 119
+    }
+    ]
+    }

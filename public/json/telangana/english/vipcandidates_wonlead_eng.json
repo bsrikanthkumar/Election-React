@@ -1,0 +1,492 @@
+{
+    "results": [
+    {
+    "cand_pic": "ZAHEERABAD_INC_CHANDRA_SHEKAR.JPG",
+    "cand_name": "A CHANDRA SEKHAR",
+    "cand_name_english": "A CHANDRA SEKHAR",
+    "party_name": "INC",
+    "const_name": "ZAHEERABAD",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "NIRMAL_BRS_INDRAKARANREDDY.JPG",
+    "cand_name": "ALLOLA INDRAKARAN REDDY",
+    "cand_name_english": "ALLOLA INDRAKARAN REDDY",
+    "party_name": "BRS",
+    "const_name": "NIRMAL",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "MULUGU_INC_SEETHAKKA.JPG",
+    "cand_name": "ANASUYA SEETHAKKA DANASARI",
+    "cand_name_english": "ANASUYA SEETHAKKA DANASARI",
+    "party_name": "INC",
+    "const_name": "MULUGU",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MUSHEERABAD_INC_ANJANKUMAR_YADAV.JPG",
+    "cand_name": "ANJAN KUMAR YADAV MANDADI",
+    "cand_name_english": "ANJAN KUMAR YADAV MANDADI",
+    "party_name": "INC",
+    "const_name": "MUSHEERABAD",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KAMAREDDYL_INC_REVANTH_REDDY.JPG",
+    "cand_name": "ANUMULA REVANTH REDDY",
+    "cand_name_english": "ANUMULA REVANTH REDDY",
+    "party_name": "INC",
+    "const_name": "KAMAREDDY",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KODANGAL_INC_REVANTH_REDDY.JPG",
+    "cand_name": "ANUMULA REVANTH REDDY",
+    "cand_name_english": "ANUMULA REVANTH REDDY",
+    "party_name": "INC",
+    "const_name": "KODANGAL",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "ANDOLE_BJP_BABUMOHAN.jpg",
+    "cand_name": "BABUMOHAN",
+    "cand_name_english": "BABUMOHAN",
+    "party_name": "BJP",
+    "const_name": "ANDOLE",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "CHENNURU_BRS_BALKASUMAN.JPG",
+    "cand_name": "BALKA SUMAN",
+    "cand_name_english": "BALKA SUMAN",
+    "party_name": "BRS",
+    "const_name": "CHENNURU",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KARIMNAGAR_BJP_BANDISANJAY.JPG",
+    "cand_name": "BANDI SANJAY KUMAR",
+    "cand_name_english": "BANDI SANJAY KUMAR",
+    "party_name": "BJP",
+    "const_name": "KARIMNAGAR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "MADHIRA_INC_BHATTI_VIKRAMARKA.JPG",
+    "cand_name": "BHATI VIKRAMARKA MALLU",
+    "cand_name_english": "BHATI VIKRAMARKA MALLU",
+    "party_name": "INC",
+    "const_name": "MADHIRA",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "ANDOLE_INC_DAMODAR_RAJANARSIMHA.JPG",
+    "cand_name": "C DAMODAR RAJANARSIMHA",
+    "cand_name_english": "C DAMODAR RAJANARSIMHA",
+    "party_name": "INC",
+    "const_name": "ANDOLE",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MEDCHAL_BRS_MALLAREDDY.JPG",
+    "cand_name": "CHAMAKURA MALLA REDDY",
+    "cand_name_english": "CHAMAKURA MALLA REDDY",
+    "party_name": "BRS",
+    "const_name": "MEDCHAL",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "KHAIRATHABAD_BRS_DANAMNAGENDER.JPG",
+    "cand_name": "DANAM NAGENDER",
+    "cand_name_english": "DANAM NAGENDER",
+    "party_name": "BRS",
+    "const_name": "KHAIRATABAD",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "PALAKURTHI_BRS_ERRABELLIDAYAKAR_RAO.JPG",
+    "cand_name": "DAYAKAR RAO ERRABELLI",
+    "cand_name_english": "DAYAKAR RAO ERRABELLI",
+    "party_name": "BRS",
+    "const_name": "PALAKURTHI",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KORATLA_BJP_DHARMAPURIARVIND.JPG",
+    "cand_name": "DHARMAPURI ARVIND",
+    "cand_name_english": "DHARMAPURI ARVIND",
+    "party_name": "BJP",
+    "const_name": "KORATLA",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "MANTHANI_INC_SRIDHAR_BABU.JPG",
+    "cand_name": "DUDDILLA SRIDHAR BABU",
+    "cand_name_english": "DUDDILLA SRIDHAR BABU",
+    "party_name": "INC",
+    "const_name": "MANTHANI",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "GAJWEL_BJP_EETELARAJENDER.JPG",
+    "cand_name": "EATALA RAJENDAR",
+    "cand_name_english": "EATALA RAJENDAR",
+    "party_name": "BJP",
+    "const_name": "GAJWEL",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "HUZURABAD_BJP_EETELARAJENDER.JPG",
+    "cand_name": "EATALA RAJENDAR",
+    "cand_name_english": "EATALA RAJENDAR",
+    "party_name": "BJP",
+    "const_name": "HUZURABAD",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "CHENNURU_GADDAM_VIVEKANAND.jpeg",
+    "cand_name": "GADDAM VIVEKANAND",
+    "cand_name_english": "GADDAM VIVEKANAND",
+    "party_name": "INC",
+    "const_name": "CHENNURU",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "KARIMNAGAR_BRS_GANGULAKAMALAKAR.JPG",
+    "cand_name": "GANGULA KAMALAKAR",
+    "cand_name_english": "GANGULA KAMALAKAR",
+    "party_name": "BRS",
+    "const_name": "KARIMNAGAR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SURYAPETA_BRS_JAGADEESHREDDY.JPG",
+    "cand_name": "GUNTAKANDLA JAGADEESH REDDY",
+    "cand_name_english": "GUNTAKANDLA JAGADEESH REDDY",
+    "party_name": "BRS",
+    "const_name": "SURYAPET",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "ADILABAD_BRS_JOGURAMANNA.JPG",
+    "cand_name": "JOGU RAMANNA",
+    "cand_name_english": "JOGU RAMANNA",
+    "party_name": "BRS",
+    "const_name": "ADILABAD",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KOLLAPUR_INC_JUPALLY_KRISHNA_RAO.JPG",
+    "cand_name": "JUPALLY KRISHNA RAO",
+    "cand_name_english": "JUPALLY KRISHNA RAO",
+    "party_name": "INC",
+    "const_name": "KOLLAPUR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "STATIONGHANPUR_BRS_KADIYAMSRIHARI.JPG",
+    "cand_name": "KADIYAM SRIHARI",
+    "cand_name_english": "KADIYAM SRIHARI",
+    "party_name": "BRS",
+    "const_name": "STATION GHANPUR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "KAMAREDDY_BRS_KCR.JPG",
+    "cand_name": "KALVAKUNTLA CHANDRASEKHAR RAO",
+    "cand_name_english": "KALVAKUNTLA CHANDRASEKHAR RAO",
+    "party_name": "BRS",
+    "const_name": "KAMAREDDY",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "GAJWEL_BRS_KCR.JPG",
+    "cand_name": "KALVAKUNTLA CHANDRASHEKAR RAO",
+    "cand_name_english": "KALVAKUNTLA CHANDRASHEKAR RAO",
+    "party_name": "BRS",
+    "const_name": "GAJWEL",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SIRICILLA_BRS_KTR.JPG",
+    "cand_name": "KALVAKUNTLA TARAKA RAMARAO",
+    "cand_name_english": "KALVAKUNTLA TARAKA RAMARAO",
+    "party_name": "BRS",
+    "const_name": "SIRCILLA",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MUNUGODU_INC_KOMATIREDDY_RAJAGOPAL_REDDY.JPG",
+    "cand_name": "KOMATIREDDY RAJGOPAL REDDY",
+    "cand_name_english": "KOMATIREDDY RAJGOPAL REDDY",
+    "party_name": "INC",
+    "const_name": "MUNUGODE",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "NALGONDA_INC_KOMATIREDDY_VENKATAREDDY.JPG",
+    "cand_name": "KOMATIREDDY VENKAT REDDY",
+    "cand_name_english": "KOMATIREDDY VENKAT REDDY",
+    "party_name": "INC",
+    "const_name": "NALGONDA",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "WARANGAL_EAST_INC_KONDA_SUREKHA.JPG",
+    "cand_name": "KONDA SUREKHA",
+    "cand_name_english": "KONDA SUREKHA",
+    "party_name": "INC",
+    "const_name": "WARANGAL EAST",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "DHARMAPURI_BRS_ESHWAR.JPG",
+    "cand_name": "KOPPULA ESHWAR",
+    "cand_name_english": "KOPPULA ESHWAR",
+    "party_name": "BRS",
+    "const_name": "DHARMAPURI",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "DUBBAK_BJP_RAGHUNANDAN_RAO.JPG",
+    "cand_name": "M RAGHUNANDAN RAO",
+    "cand_name_english": "M RAGHUNANDAN RAO",
+    "party_name": "BJP",
+    "const_name": "DUBBAK",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "LB_NAGAR_INC_MADHU_YASKI_GOUD.JPG",
+    "cand_name": "MADHU GOUD YASKHI",
+    "cand_name_english": "MADHU GOUD YASKHI",
+    "party_name": "INC",
+    "const_name": "L.B.NAGAR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "JUBILEEHILLS_INC_MOHAMMAD_AZARUDDIN.JPG",
+    "cand_name": "MAHAMMED AZHARUDDIN",
+    "cand_name_english": "MAHAMMED AZHARUDDIN",
+    "party_name": "INC",
+    "const_name": "JUBILEE HILLS",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "NIZAMABAD_URBAN_INC_SABBIR_ALI.jpeg",
+    "cand_name": "MOHAMMED ALI SHABBIR",
+    "cand_name_english": "MOHAMMED ALI SHABBIR",
+    "party_name": "INC",
+    "const_name": "NIZAMABAD URBAN",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "MALKAJGIRI_INC_MYNAMPALLY_HANUMANTHA_ RAO.JPG",
+    "cand_name": "MYNAMPALLY HANUMANTHA RAO",
+    "cand_name_english": "MYNAMPALLY HANUMANTHA RAO",
+    "party_name": "INC",
+    "const_name": "MALKAJGIRI",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "HUZURNAGAR_INC_UTTAMA_KUMAR_REDDY.JPG",
+    "cand_name": "N UTTAM KUMAR REDDY",
+    "cand_name_english": "N UTTAM KUMAR REDDY",
+    "party_name": "INC",
+    "const_name": "HUZURNAGAR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "BODHAN_INC_SUDARSHAN_REDDY.JPG",
+    "cand_name": "P SUDARSHAN REDDY",
+    "cand_name_english": "P SUDARSHAN REDDY",
+    "party_name": "INC",
+    "const_name": "BODHAN",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MEDAK_BRS_PADMADEVENDERREDDY.JPG",
+    "cand_name": "PADMA DEVENDER REDDY",
+    "cand_name_english": "PADMA DEVENDER REDDY",
+    "party_name": "BRS",
+    "const_name": "MEDAK",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "JANGAON_BRS_PALLARAJESHWARREDDY.jpg",
+    "cand_name": "PALLA RAJESWAR REDDY",
+    "cand_name_english": "PALLA RAJESWAR REDDY",
+    "party_name": "BRS",
+    "const_name": "JANGAON",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MAHESHWARAM_BRS_SABITHAINDRAREDDY.JPG",
+    "cand_name": "PATLOLLA SABITHA INDRAREDDY",
+    "cand_name_english": "PATLOLLA SABITHA INDRAREDDY",
+    "party_name": "BRS",
+    "const_name": "MAHESWARAM",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "BANSWADA_BRS_POCHARAMSRINIVASREDDY.JPG",
+    "cand_name": "POCHARAM SRINIVAS REDDY",
+    "cand_name_english": "POCHARAM SRINIVAS REDDY",
+    "party_name": "BRS",
+    "const_name": "BANSUWADA",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "PALAIR_INC_PONGULETI_SRINIVAS_REDDY.JPG",
+    "cand_name": "PONGULETI SRINIVAS REDDY",
+    "cand_name_english": "PONGULETI SRINIVAS REDDY",
+    "party_name": "INC",
+    "const_name": "PALAIR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "HUSNABAD_INC_PONNAM_PRABHAKAR.JPG",
+    "cand_name": "PONNAM PRABHAKAR",
+    "cand_name_english": "PONNAM PRABHAKAR",
+    "party_name": "INC",
+    "const_name": "HUSNABAD",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "KHAMMAM_BRS_PUVVADAAJAYKUMAR.JPG",
+    "cand_name": "PUVVADA AJAY KUMAR",
+    "cand_name_english": "PUVVADA AJAY KUMAR",
+    "party_name": "BRS",
+    "const_name": "KHAMMAM",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "RSPRAVEENKUMAR.JPG",
+    "cand_name": "R S PRAVEEN KUMAR",
+    "cand_name_english": "R S PRAVEEN KUMAR",
+    "party_name": "BSP",
+    "const_name": "SIRPUR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KHANAPUR_BJP_RAMESHRATHOD.JPG",
+    "cand_name": "RAMESH RATHOD",
+    "cand_name_english": "RAMESH RATHOD",
+    "party_name": "BJP",
+    "const_name": "KHANAPUR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "ALAMPUR_INC_SAMPATHKUMAR.JPG",
+    "cand_name": "S A SAMPATH KUMAR",
+    "cand_name_english": "S A SAMPATH KUMAR",
+    "party_name": "INC",
+    "const_name": "ALAMPUR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "WANAPARTHI_BRS_NIRANJANREDDY.JPG",
+    "cand_name": "SINGIREDDY NIRANJAN REDDY",
+    "cand_name_english": "SINGIREDDY NIRANJAN REDDY",
+    "party_name": "BRS",
+    "const_name": "WANAPARTHY",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "BOATH_BJP_SOYAM_BAPURAO.JPG",
+    "cand_name": "SOYAM BAPURAO",
+    "cand_name_english": "SOYAM BAPURAO",
+    "party_name": "BJP",
+    "const_name": "BOATH",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "JAGITIAL_INC_JEEVAN_REDDY.JPG",
+    "cand_name": "T JEEVAN REDDY",
+    "cand_name_english": "T JEEVAN REDDY",
+    "party_name": "INC",
+    "const_name": "JAGITIAL",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "GOSHAMAHAL_BJP_RAJASINGH.JPG",
+    "cand_name": "T RAJA SINGH",
+    "cand_name_english": "T RAJA SINGH",
+    "party_name": "BJP",
+    "const_name": "GOSHAMAHAL",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SECUNDRABAD_BRS_PADMARAO.JPG",
+    "cand_name": "T.PADMARAO",
+    "cand_name_english": "T.PADMARAO",
+    "party_name": "BRS",
+    "const_name": "SECUNDERABAD",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SANATHNAGAR_BRS_TALASANISRINIVASYADAV.JPG",
+    "cand_name": "TALASANI SRINIVAS YADAV",
+    "cand_name_english": "TALASANI SRINIVAS YADAV",
+    "party_name": "BRS",
+    "const_name": "SANATHNAGAR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SIDDIPET_BRS_HARISHRAO.JPG",
+    "cand_name": "THANNERU HARISH RAO",
+    "cand_name_english": "THANNERU HARISH RAO",
+    "party_name": "BRS",
+    "const_name": "SIDDIPET",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "SANGAREDDY_INC_JAYA_PRAKASH_REDDY.JPG",
+    "cand_name": "THURUPU JAYA PRAKASH REDDY",
+    "cand_name_english": "THURUPU JAYA PRAKASH REDDY",
+    "party_name": "INC",
+    "const_name": "SANGAREDDY",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "KHAMMAM_INC_TUMMALA_NAGESHWARA_RAO.JPG",
+    "cand_name": "TUMMALA NAGESWAR RAO",
+    "cand_name_english": "TUMMALA NAGESWAR RAO",
+    "party_name": "INC",
+    "const_name": "KHAMMAM",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "MAHABUBNAGAR_BRS_SRINIVASGOUD.JPG",
+    "cand_name": "V.SRINIVAS GOUD",
+    "cand_name_english": "V.SRINIVAS GOUD",
+    "party_name": "BRS",
+    "const_name": "MAHBUBNAGAR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "NARSAPUR_BRS_SUNITHALAXMAREDDY.jpg",
+    "cand_name": "VAKITI SUNITHA LAKSHMA REDDY",
+    "cand_name_english": "VAKITI SUNITHA LAKSHMA REDDY",
+    "party_name": "BRS",
+    "const_name": "NARSAPUR",
+    "status": "WON"
+    },
+    {
+    "cand_pic": "VEERABHADRAM_THAMMINENI.JPG",
+    "cand_name": "VEERABHADRAM THAMMINENI",
+    "cand_name_english": "VEERABHADRAM THAMMINENI",
+    "party_name": "CPI(M)",
+    "const_name": "PALAIR",
+    "status": "LOST"
+    },
+    {
+    "cand_pic": "BALKONDA_BRS_VEMULAPRASHANTHREDDY.JPG",
+    "cand_name": "VEMULA PRASHANTH REDDY",
+    "cand_name_english": "VEMULA PRASHANTH REDDY",
+    "party_name": "BRS",
+    "const_name": "BALKONDA",
+    "status": "WON"
+    }
+    ]
+    }

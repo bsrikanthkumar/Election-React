@@ -1,0 +1,135 @@
+
+.App {
+    width: 100%;
+}
+.bjp{
+    background-color: #ff6d13;
+}
+.bjpgradient{
+    background: linear-gradient(90deg, #E12333 0%, #ff6600 100%);
+}
+.oth, .others{
+    background-color: #414e57;
+}
+.inc{
+    background-color: #4196e9;
+}
+.brs{
+    background-color: #f854a7;
+}
+.mim{
+    background-color: #00ab30;
+}
+.sp{
+    background-color: #ff5757;
+}
+.tborder table, .tborder th, .tborder td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.card-background,.vip-candidates{
+    background: linear-gradient(178deg, #010304 30%, #0f85b3 100%, #22b5da -125%);
+}
+.vip-cand{
+    background: linear-gradient(178deg, #010304 10%, #0f85b3 100%, #22b5da -125%);
+}
+.vip-cand .swiper.swiper-initialized.swiper-horizontal{
+    border-top: 1px solid #cc0101;
+    margin-top: 4px;
+}
+
+.northern-india .swiper-button-prev:after,.northern-india .swiper-button-next:after,
+.western-india .swiper-button-prev:after,.western-india .swiper-button-next:after,
+.southern-india .swiper-button-prev:after,.southern-india .swiper-button-next:after,
+.north-east-india .swiper-button-prev:after,.north-east-india .swiper-button-next:after,
+.vvip-candidates .swiper-button-prev:after,.vvip-candidates .swiper-button-next:after,
+.vip-cand .swiper-button-prev:after,.vip-cand .swiper-button-next:after {
+    font-size: 24px;
+    font-weight: 900;
+    color: #919191;
+}
+.northern-india .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden,
+.western-india .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden,
+.southern-india .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden,
+.north-east-india .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden,
+.vvip-candidates .swiper.swiper-initialized.swiper-horizontal{
+    border-top: 1px solid #000;
+    margin-top: 4px;
+}
+.vvip-candidates .swiper.swiper-initialized.swiper-horizontal,
+.vip-cand .swiper.swiper-initialized.swiper-horizontal{
+    margin-right: 4%;
+    margin-left: 4%;
+}
+.vvip-candidates,.vip-cand{
+    margin-left: -1%;
+    margin-right: -1%;
+}
+.swiper-container{
+    position: relative;
+  /* border-top: 1px solid #000; */
+    /* margin-top: 4px; */
+}
+/* #northernIndia{
+    margin: 0px 3%;
+}
+#northernIndia .swiper-button-next, #northernIndia .swiper-rtl .swiper-button-prev {
+    right: -30px;
+}
+#northernIndia .swiper-button-prev, #northernIndia .swiper-rtl .swiper-button-next {
+    left: -30px;
+} */
+.swiper-container {
+    overflow: hidden;
+  }
+
+  #northernIndia .swiper-button-next,
+  #northernIndia .swiper-button-prev {
+  z-index: 1; /* Ensure arrows are above the slides */
+}
+  
+@media only screen and (max-width: 480px) {
+    .big-impact-border{
+        border: 1px solid #e37e7e;
+    }
+    .four-states-mbl-img{
+        width: -webkit-fill-available;
+    }
+    .northern-india .swiper-pagination,
+    .western-india .swiper-pagination,
+    .southern-india .swiper-pagination,
+    .north-east-india .swiper-pagination,
+    .vvip-candidates .swiper-pagination, 
+    .vip-cand .swiper-pagination{
+        position: relative;
+    }
+    .northern-india .swiper-button-prev, .northern-india .swiper-button-next,
+    .western-india .swiper-button-prev, .western-india .swiper-button-next,
+    .southern-india .swiper-button-prev, .southern-india .swiper-button-next,
+    .north-east-india .swiper-button-prev, .north-east-india .swiper-button-next,
+    .vvip-candidates .swiper-button-prev, .vvip-candidates .swiper-button-next,
+    .vip-cand .swiper-button-prev, .vip-cand .swiper-button-next {
+        display: none;
+    }
+}
+
+@media (min-width:481px) and (max-width:767px) {
+    
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    
+}
+
+@media (min-width:1200px) and (max-width:1919px) {
+    
+}
+
+@media (min-width:1920px) {
+    
+}

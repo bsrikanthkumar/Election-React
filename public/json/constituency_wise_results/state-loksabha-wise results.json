@@ -1,0 +1,580 @@
+{
+    "Andaman_and_Nicobar_Islands": [
+        {
+            "state_id": 35,
+            "const_name": "Andaman and Nicobar Islands",
+            "type": "GEN",
+            "cand_name": "Kuldeep Rai Sharma",
+            "party_name": "INC",
+            "status": "WON"
+        }
+    ],
+    "Andhra_Pradesh": [
+        {
+            "state_id": 37,
+            "const_name": "Araku",
+            "type": "(ST)",
+            "cand_name": "Goddeti Madhavi",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Srikakulam",
+            "type": "GEN",
+            "cand_name": "Ram Mohan Naidu Kinjarapu",
+            "party_name": "TDP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Vizianagaram",
+            "type": "GEN",
+            "cand_name": "Bellana Chandra Sekhar",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Visakhapatnam",
+            "type": "GEN",
+            "cand_name": "M. V. V. Satyanarayana",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Anakapalli",
+            "type": "GEN",
+            "cand_name": "Beesetti Venkata Satyavathi",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Kakinada",
+            "type": "GEN",
+            "cand_name": "Vanga Geetha",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Amalapuram",
+            "type": "(SC)",
+            "cand_name": "Chinta Anuradha",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Rajahmundry",
+            "type": "GEN",
+            "cand_name": "Margani Bharat",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Narasapuram",
+            "type": "GEN",
+            "cand_name": "Raghu Rama Krishna Raju",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Eluru",
+            "type": "GEN",
+            "cand_name": "Kotagiri Sridhar",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Machilipatnam",
+            "type": "GEN",
+            "cand_name": "Vallabhaneni Balasouri",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Vijayawada",
+            "type": "GEN",
+            "cand_name": "Kesineni Srinivas",
+            "party_name": "TDP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Guntur",
+            "type": "GEN",
+            "cand_name": "Galla Jayadev",
+            "party_name": "TDP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Narasaraopet",
+            "type": "GEN",
+            "cand_name": "Lavu Sri Krishna Devarayalu",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Bapatla",
+            "type": "(SC)",
+            "cand_name": "Nandigam Suresh",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Ongole",
+            "type": "GEN",
+            "cand_name": "Magunta Sreenivasulu Reddy",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Nandyal",
+            "type": "GEN",
+            "cand_name": "Pocha Brahmananda Reddy",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Kurnool",
+            "type": "GEN",
+            "cand_name": "Sanjeev Kumar",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Anantapur",
+            "type": "GEN",
+            "cand_name": "Tallari Rangaiah",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Hindupur",
+            "type": "GEN",
+            "cand_name": "Kuruva Gorantla Madhav",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Kadapa",
+            "type": "GEN",
+            "cand_name": "Y. S. Avinash Reddy",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Nellore",
+            "type": "GEN",
+            "cand_name": "Adala Prabhakara Reddy",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Tirupati",
+            "type": "(SC)",
+            "cand_name": "Balli Durga Prasad Rao",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Rajampet",
+            "type": "GEN",
+            "cand_name": "P. V. Midhun Reddy",
+            "party_name": "YSRCP",
+            "status": "WON"
+        },
+        {
+            "state_id": 37,
+            "const_name": "Chittoor",
+            "type": "(SC)",
+            "cand_name": "N. Reddeppa",
+            "party_name": "YSRCP",
+            "status": "WON"
+        }
+    ],
+    "Arunachal_Pradesh": [
+        {
+            "state_id": 12,
+            "const_name": "Arunachal West",
+            "type": "(ST)",
+            "cand_name": "Kiren Rijiju",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 12,
+            "const_name": "Arunachal East",
+            "type": "(ST)",
+            "cand_name": "Tapir Gao",
+            "party_name": "BJP",
+            "status": "WON"
+        }
+    ],
+    "Assam": [
+        {
+            "state_id": 18,
+            "const_name": "Karimganj",
+            "type": "(SC)",
+            "cand_name": "Kripanath Mallah",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Silchar",
+            "type": "GEN",
+            "cand_name": "Rajdeep Roy",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Autonomous District",
+            "type": "(ST)",
+            "cand_name": "Horen Sing Bey",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Dhubri",
+            "type": "GEN",
+            "cand_name": "Badruddin Ajmal",
+            "party_name": "AIUDF",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Kokrajhar",
+            "type": "(ST)",
+            "cand_name": "Naba Kumar Sarania",
+            "party_name": "IND",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Barpeta",
+            "type": "GEN",
+            "cand_name": "Abdul Khaleque",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Gauhati",
+            "type": "GEN",
+            "cand_name": "Queen Oja",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Mangaldoi",
+            "type": "GEN",
+            "cand_name": "Dilip Saikia",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Tezpur",
+            "type": "GEN",
+            "cand_name": "Pallab Lochan Das",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Nowgong",
+            "type": "GEN",
+            "cand_name": "Pradyut Bordoloi",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Kaliabor",
+            "type": "GEN",
+            "cand_name": "Gourav Gogoi",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Jorhat",
+            "type": "GEN",
+            "cand_name": "Topon Kumar Gogoi",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Dibrugarh",
+            "type": "(GEN)",
+            "cand_name": "Rameswar Teli",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 18,
+            "const_name": "Lakhimpur",
+            "type": "GEN",
+            "cand_name": "Pradan Baruah",
+            "party_name": "BJP",
+            "status": "WON"
+        }
+    ],
+    "Bihar": [
+        {
+            "state_id": 10,
+            "const_name": "Valmiki Nagar",
+            "type": "GEN",
+            "cand_name": "Baidyanath Prasad Mahto",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Paschim Champaran",
+            "type": "GEN",
+            "cand_name": "Sanjay Jaiswal",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Purvi Champaran",
+            "type": "GEN",
+            "cand_name": "Radha Mohan Singh",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Sheohar",
+            "type": "GEN",
+            "cand_name": "Rama Devi",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Sitamarhi",
+            "type": "GEN",
+            "cand_name": "Sunil Kumar Pintu",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Madhubani",
+            "type": "GEN",
+            "cand_name": "Ashok Kumar Yadav",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Jhanjharpur",
+            "type": "GEN",
+            "cand_name": "Ramprit Mandal",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Supaul",
+            "type": "GEN",
+            "cand_name": "Dileshwar Kamait",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Araria",
+            "type": "GEN",
+            "cand_name": "Pradeep Kumar Singh",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Kishanganj",
+            "type": "GEN",
+            "cand_name": "Mohammad Jawed",
+            "party_name": "INC",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Katihar",
+            "type": "GEN",
+            "cand_name": "Dulal Chandra Goswami",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Purnia",
+            "type": "GEN",
+            "cand_name": "Santosh Kumar",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Madhepura",
+            "type": "GEN",
+            "cand_name": "Dinesh Chandra Yadav",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Darbhanga",
+            "type": "GEN",
+            "cand_name": "Gopal Jee Thakur",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Muzaffarpur",
+            "type": "GEN",
+            "cand_name": "Ajay Nishad",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Vaishali",
+            "type": "GEN",
+            "cand_name": "Veena Devi",
+            "party_name": "LJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Gopalganj",
+            "type": "(SC)",
+            "cand_name": "Alok Kumar Suman",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Siwan",
+            "type": "GEN",
+            "cand_name": "Kavita Singh",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Maharajganj",
+            "type": "GEN",
+            "cand_name": "Janardan Singh Sigriwal",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Saran",
+            "type": "GEN",
+            "cand_name": "Rajiv Pratap Rudy",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Hajipur",
+            "type": "(SC)",
+            "cand_name": "Pashupati Kumar Paras",
+            "party_name": "LJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Ujiarpur",
+            "type": "GEN",
+            "cand_name": "Nityanand Rai",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Samastipur",
+            "type": "(SC)",
+            "cand_name": "Ram Chandra Paswan",
+            "party_name": "LJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Begusarai",
+            "type": "GEN",
+            "cand_name": "Giriraj Singh",
+            "party_name": "BJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Khagaria",
+            "type": "GEN",
+            "cand_name": "Mehboob Ali Kaiser",
+            "party_name": "LJP",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Bhagalpur",
+            "type": "GEN",
+            "cand_name": "Ajay Kumar Mandal",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Banka",
+            "type": "GEN",
+            "cand_name": "Giridhari Yadav",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Munger",
+            "type": "GEN",
+            "cand_name": "Rajiv Ranjan Singh",
+            "party_name": "JDU",
+            "status": "WON"
+        },
+        {
+            "state_id": 10,
+            "const_name": "Nalanda",
+            "type": "GEN",
+            "cand_name": "Kaushalendra Kumar",
+            "party_name": "JDU",
+            "status": "WON"
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+    "results": [
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "అంబర్‍పేట్‍",
+    "const_name_english": "AMBERPET",
+    "candidate_name": "కాలేరు వెంకటేశ్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "అచ్చంపేట",
+    "const_name_english": "ACHAMPET",
+    "candidate_name": "చిక్కుడు వంశీకృష్ణ",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "అలంపూర్‌",
+    "const_name_english": "ALAMPUR",
+    "candidate_name": "విజయుడు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "అశ్వారావుపేట",
+    "const_name_english": "ASWARAOPETA",
+    "candidate_name": "ఆదినారాయణరావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఆందోల్‌",
+    "const_name_english": "ANDOLE",
+    "candidate_name": "సి.దామోదర్‌ రాజనర్సింహా",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఆదిలాబాద్‌",
+    "const_name_english": "ADILABAD",
+    "candidate_name": "పాయల్‌ శంకర్‌",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఆర్మూర్‌",
+    "const_name_english": "ARMUR",
+    "candidate_name": "పైడి రాకేష్‌రెడ్డి",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఆలేరు",
+    "const_name_english": "ALAIR",
+    "candidate_name": "బీర్ల ఐలయ్య",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఆసిఫాబాద్‌",
+    "const_name_english": "ASIFABAD",
+    "candidate_name": "కోవ లక్ష్మి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఇబ్రహీంపట్నం",
+    "const_name_english": "IBRAHIMPATNAM",
+    "candidate_name": "మల్‍రెడ్డి రంగారెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఇల్లెందు",
+    "const_name_english": "YELLANDU",
+    "candidate_name": "కోరం కనకయ్య",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఉప్పల్",
+    "const_name_english": "UPPAL",
+    "candidate_name": "బండారు లక్ష్మారెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఎల్బీనగర్",
+    "const_name_english": "L.B.NAGAR",
+    "candidate_name": "దేవిరెడ్డి సుధీర్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఎల్లారెడ్డి",
+    "const_name_english": "YELLAREDDY",
+    "candidate_name": "కె. మదన్‌మోహన్‌రావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కరీంనగర్",
+    "const_name_english": "KARIMNAGAR",
+    "candidate_name": "గంగుల కమలాకర్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కల్వకుర్తి",
+    "const_name_english": "KALWAKURTHY",
+    "candidate_name": "కసిరెడ్డి నారాయణరెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కామారెడ్డి",
+    "const_name_english": "KAMAREDDY",
+    "candidate_name": "కాటిపల్లి వెంకటరమణారెడ్డి",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కార్వాన్‌",
+    "const_name_english": "KARWAN",
+    "candidate_name": "కౌసర్‌ మొహియుద్దీన్‌",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కుత్బుల్లాపూర్",
+    "const_name_english": "QUTHBULLAPUR",
+    "candidate_name": "కె.పి.వివేకానంద",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కూకట్‍పల్లి",
+    "const_name_english": "KUKATPALLE",
+    "candidate_name": "మాధవరం కృష్ణారావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కొడంగల్‌",
+    "const_name_english": "KODANGAL",
+    "candidate_name": "ఎనుముల రేవంత్ రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కొత్తగూడెం",
+    "const_name_english": "KOTHAGUDEM",
+    "candidate_name": "కూనంనేని సాంబశివరావు",
+    "party_name": "సీపీఐ",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కొల్లాపూర్‌",
+    "const_name_english": "KOLLAPUR",
+    "candidate_name": "జూపల్లి కృష్ణారావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కోదాడ",
+    "const_name_english": "KODAD",
+    "candidate_name": "పద్మావతిరెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "కోరుట్ల",
+    "const_name_english": "KORATLA",
+    "candidate_name": "కల్వకుంట్ల సంజయ్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఖమ్మం",
+    "const_name_english": "KHAMMAM",
+    "candidate_name": "తుమ్మల నాగేశ్వర రావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఖానాపూర్‌",
+    "const_name_english": "KHANAPUR",
+    "candidate_name": "వెడ్మ బొజ్జు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ఖైరతాబాద్‌",
+    "const_name_english": "KHAIRATABAD",
+    "candidate_name": "దానం నాగేందర్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "గజ్వేల్",
+    "const_name_english": "GAJWEL",
+    "candidate_name": "కల్వకుంట్ల చంద్రశేఖర్‌రావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "గద్వాల",
+    "const_name_english": "GADWAL",
+    "candidate_name": "బండ్ల కృష్ణమోహన్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "గోషామహల్‌",
+    "const_name_english": "GOSHAMAHAL",
+    "candidate_name": "టి.రాజాసింగ్‌",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "చాంద్రాయణగుట్ట",
+    "const_name_english": "CHANDRAYANAGUTTA",
+    "candidate_name": "అక్బరుద్దీన్‌ ఒవైసీ",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "చార్మినార్",
+    "const_name_english": "CHARMINAR",
+    "candidate_name": "మీర్ జుల్ఫీకర్‌ అలీ",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "చెన్నూరు",
+    "const_name_english": "CHENNURU",
+    "candidate_name": "గడ్డం వివేక్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "చేవెళ్ల",
+    "const_name_english": "CHEVELLA",
+    "candidate_name": "కాలె యాదయ్య",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "చొప్పదండి",
+    "const_name_english": "CHOPPADANDI",
+    "candidate_name": "మేడిపల్లి సత్యం",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జగిత్యాల",
+    "const_name_english": "JAGITIAL",
+    "candidate_name": "ఎం.సంజయ్‌ కుమార్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జడ్చర్ల",
+    "const_name_english": "JADCHERLA",
+    "candidate_name": "జె.అనిరుధ్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జనగామ",
+    "const_name_english": "JANGAON",
+    "candidate_name": "పల్లా రాజేశ్వర్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జహీరాబాద్‌",
+    "const_name_english": "ZAHEERABAD",
+    "candidate_name": "కె.మాణిక్‌రావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జుక్కల్‌",
+    "const_name_english": "JUKKAL",
+    "candidate_name": "తోట లక్ష్మీకాంతరావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "జూబ్లీహిల్స్",
+    "const_name_english": "JUBILEE HILLS",
+    "candidate_name": "మాగంటి గోపినాథ్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "డోర్నకల్‌",
+    "const_name_english": "DORNAKAL",
+    "candidate_name": "జె.రాంచంద్రు నాయక్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "తాండూరు",
+    "const_name_english": "TANDUR",
+    "candidate_name": "బి. మనోహర్‍రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "తుంగతుర్తి",
+    "const_name_english": "THUNGATHURTHI",
+    "candidate_name": "మందుల సామేల్‍",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "దుబ్బాక",
+    "const_name_english": "DUBBAK",
+    "candidate_name": "కొత్త ప్రభాకర్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "దేవరకద్ర",
+    "const_name_english": "DEVARKADRA",
+    "candidate_name": "జి.మధుసూదన్‍రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "దేవరకొండ",
+    "const_name_english": "DEVARAKONDA",
+    "candidate_name": "నేనావత్‌ బాలూనాయక్",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ధర్మపురి",
+    "const_name_english": "DHARMAPURI",
+    "candidate_name": "అడ్లూరి లక్ష్మణ్‌కుమార్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నకిరేకల్‌",
+    "const_name_english": "NAKREKAL",
+    "candidate_name": "వేముల వీరేశం",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నర్సంపేట",
+    "const_name_english": "NARSAMPET",
+    "candidate_name": "దొంతి మాధవరెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నర్సాపూర్‌",
+    "const_name_english": "NARSAPUR",
+    "candidate_name": "సునీతా లక్ష్మారెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నల్గొండ",
+    "const_name_english": "NALGONDA",
+    "candidate_name": "కోమటిరెడ్డి వెంకటరెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నాంపల్లి",
+    "const_name_english": "NAMPALLY",
+    "candidate_name": "మహ్మద్‌ మాజీద్‌ హుస్సేన్",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నాగర్‌కర్నూల్‌",
+    "const_name_english": "NAGARKURNOOL",
+    "candidate_name": "కూచుకుల్ల రాజేశ్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నాగార్జునసాగర్‌",
+    "const_name_english": "NAGARJUNASAGAR",
+    "candidate_name": "కుందూరు జైవీర్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నారాయణపేట",
+    "const_name_english": "NARAYANPET",
+    "candidate_name": "చిట్టెం పర్ణికారెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నారాయణ్‌ఖేడ్‌",
+    "const_name_english": "NARAYANKHED",
+    "candidate_name": "పి.సంజీవ్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నిజామాబాద్ గ్రామీణం",
+    "const_name_english": "NIZAMABAD RURAL",
+    "candidate_name": "రేకులపల్లి భూపతిరెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నిజామాబాద్‌ పట్టణం",
+    "const_name_english": "NIZAMABAD URBAN",
+    "candidate_name": "ధన్‌పాల్‌ సూర్యనారాయణ",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "నిర్మల్",
+    "const_name_english": "NIRMAL",
+    "candidate_name": "ఏలేటి మహేశ్వర్‌ రెడ్డి",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పటాన్‌చెరు",
+    "const_name_english": "PATANCHERU",
+    "candidate_name": "గూడెం మహిపాల్‌ రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పరకాల",
+    "const_name_english": "PARKAL",
+    "candidate_name": "రేవూరి ప్రకాశ్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పరిగి",
+    "const_name_english": "PARGI",
+    "candidate_name": "టి.రామ్మోహన్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పాలకుర్తి",
+    "const_name_english": "PALAKURTHI",
+    "candidate_name": "మామిడాల యశస్విని",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పాలేరు",
+    "const_name_english": "PALAIR",
+    "candidate_name": "పొంగులేటి శ్రీనివాస్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పినపాక",
+    "const_name_english": "PINAPAKA",
+    "candidate_name": "పాయం వెంకటేశ్వర్లు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "పెద్దపల్లి",
+    "const_name_english": "PEDDAPALLE",
+    "candidate_name": "విజయరమణారావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బహదూర్‌పుర",
+    "const_name_english": "BAHADURPURA",
+    "candidate_name": "మహ్మద్‌ ముబీన్‌",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బాన్సువాడ",
+    "const_name_english": "BANSUWADA",
+    "candidate_name": "పోచారం శ్రీనివాస్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బాల్కొండ",
+    "const_name_english": "BALKONDA",
+    "candidate_name": "వేముల ప్రశాంత్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బెల్లంపల్లి",
+    "const_name_english": "BELLAMPALLI",
+    "candidate_name": "గడ్డం వినోద్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బోథ్‌",
+    "const_name_english": "BOATH",
+    "candidate_name": "అనిల్‌ జాదవ్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "బోధన్‌",
+    "const_name_english": "BODHAN",
+    "candidate_name": "పి. సుదర్శన్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "భద్రాచలం",
+    "const_name_english": "BHADRACHALAM",
+    "candidate_name": "తెల్లం వెంకట్రావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "భువనగిరి",
+    "const_name_english": "BHONGIR",
+    "candidate_name": "కుంభం అనిల్‍కుమార్‍రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "భూపాలపల్లి",
+    "const_name_english": "BHUPALPALLE",
+    "candidate_name": "గండ్ర సత్యనారాయణరావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మంచిర్యాల",
+    "const_name_english": "MANCHIRYALA",
+    "candidate_name": "కొక్కిరాల ప్రేమ్‌సాగర్‌రావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మంథని",
+    "const_name_english": "MANTHANI",
+    "candidate_name": "దుద్దిళ్ల శ్రీధర్‌బాబు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మక్తల్‌",
+    "const_name_english": "MAKTHAL",
+    "candidate_name": "వాకిటి శ్రీహరి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మధిర",
+    "const_name_english": "MADHIRA",
+    "candidate_name": "మల్లు భట్టి విక్రమార్క",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మలక్‌పేట్‌",
+    "const_name_english": "MALAKPET",
+    "candidate_name": "అహ్మద్‌ బిన్‌ అబ్దుల్లా బలాల",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మల్కాజ్‍గిరి",
+    "const_name_english": "MALKAJGIRI",
+    "candidate_name": "మర్రి రాజశేఖర్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మహబూబాబాద్‌",
+    "const_name_english": "MAHABUBABAD",
+    "candidate_name": "భూక్య మురళీ నాయక్",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మహబూబ్‌నగర్‌",
+    "const_name_english": "MAHBUBNAGAR",
+    "candidate_name": "యెన్నం శ్రీనివాస్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మహేశ్వరం",
+    "const_name_english": "MAHESWARAM",
+    "candidate_name": "సబితా ఇంద్రారెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మానకొండూర్‌",
+    "const_name_english": "MANAKONDUR",
+    "candidate_name": "కవ్వంపల్లి సత్యనారాయణ",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మిర్యాలగూడ",
+    "const_name_english": "MIRYALAGUDA",
+    "candidate_name": "బత్తుల లక్ష్మారెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ముథోల్‌",
+    "const_name_english": "MUDHOLE",
+    "candidate_name": "పవార్ రామారావు పాటిల్‍",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మునుగోడు",
+    "const_name_english": "MUNUGODE",
+    "candidate_name": "కోమటిరెడ్డి రాజగోపాల్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ములుగు",
+    "const_name_english": "MULUGU",
+    "candidate_name": "దనసరి అనసూయ (సీతక్క)",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "ముషీరాబాద్‌",
+    "const_name_english": "MUSHEERABAD",
+    "candidate_name": "ముఠా గోపాల్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మెదక్‌",
+    "const_name_english": "MEDAK",
+    "candidate_name": "మైనంపల్లి రోహిత్‌రావు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "మేడ్చల్",
+    "const_name_english": "MEDCHAL",
+    "candidate_name": "చామకూర మల్లారెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "యాకుత్‌పుర",
+    "const_name_english": "YAKUTPURA",
+    "candidate_name": "జాఫర్‌ హుస్సేన్‌",
+    "party_name": "ఎంఐఎం",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "రాజేంద్రనగర్",
+    "const_name_english": "RAJENDRANAGAR",
+    "candidate_name": "టి.ప్రకాశ్‌గౌడ్",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "రామగుండం",
+    "const_name_english": "RAMAGUNDAM",
+    "candidate_name": "మక్కాన్‌సింగ్‌ రాజ్‌ఠాకూర్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వనపర్తి",
+    "const_name_english": "WANAPARTHY",
+    "candidate_name": "టి.మేఘారెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వరంగల్ పశ్చిమ",
+    "const_name_english": "WARANGAL WEST",
+    "candidate_name": "నాయిని రాజేందర్‍రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వరంగల్‌ తూర్పు",
+    "const_name_english": "WARANGAL EAST",
+    "candidate_name": "కొండా సురేఖ",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వర్ధన్నపేట",
+    "const_name_english": "WARADHANAPET",
+    "candidate_name": "కె.ఆర్.నాగరాజు",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వికారాబాద్",
+    "const_name_english": "VIKARABAD",
+    "candidate_name": "గడ్డం ప్రసాద్‌కుమార్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వేములవాడ",
+    "const_name_english": "VEMULAWADA",
+    "candidate_name": "ఆది శ్రీనివాస్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "వైరా",
+    "const_name_english": "WYRA",
+    "candidate_name": "మాలోత్‌ రాందాస్‌",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "శేరిలింగంపల్లి",
+    "const_name_english": "SERILINGAMPALLY",
+    "candidate_name": "అరికెపూడి గాంధీ",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "షాద్‌నగర్‌",
+    "const_name_english": "SHADNAGAR",
+    "candidate_name": "కె.శంకరయ్య",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సంగారెడ్డి",
+    "const_name_english": "SANGAREDDY",
+    "candidate_name": "చింతా ప్రభాకర్‌",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సత్తుపల్లి",
+    "const_name_english": "SATHUPALLE",
+    "candidate_name": "మట్టా రాగమయి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సనత్‍నగర్‍",
+    "const_name_english": "SANATHNAGAR",
+    "candidate_name": "తలసాని శ్రీనివాస్ యాదవ్",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సికింద్రాబాద్‌",
+    "const_name_english": "SECUNDERABAD",
+    "candidate_name": "టి.పద్మారావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సికింద్రాబాద్‌ కంటోన్మెంట్‌",
+    "const_name_english": "SECUNDERABAD CONTONMENT",
+    "candidate_name": "లాస్య నందిత",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సిద్దిపేట",
+    "const_name_english": "SIDDIPET",
+    "candidate_name": "తన్నీరు హరీశ్‌రావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సిరిసిల్ల",
+    "const_name_english": "SIRCILLA",
+    "candidate_name": "కల్వకుంట్ల తారకరామారావు",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సిర్పూర్‌",
+    "const_name_english": "SIRPUR",
+    "candidate_name": "పాల్వాయి హరీశ్‌బాబు",
+    "party_name": "భాజపా",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "సూర్యాపేట",
+    "const_name_english": "SURYAPET",
+    "candidate_name": "గుంటకండ్ల జగదీశ్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "స్టేషన్‌ఘన్‌పూర్‌",
+    "const_name_english": "STATION GHANPUR",
+    "candidate_name": "కడియం శ్రీహరి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "హుజూరాబాద్‌",
+    "const_name_english": "HUZURABAD",
+    "candidate_name": "పాడి కౌశిక్‌రెడ్డి",
+    "party_name": "భారాస",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "హుజూర్‌నగర్‌",
+    "const_name_english": "HUZURNAGAR",
+    "candidate_name": "ఉత్తమ్‌కుమార్‌రెడ్డి",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    },
+    {
+    "state_name": "తెలంగాణ",
+    "const_name": "హుస్నాబాద్‌",
+    "const_name_english": "HUSNABAD",
+    "candidate_name": "పొన్నం ప్రభాకర్",
+    "party_name": "కాంగ్రెస్",
+    "status": "గెలుపు"
+    }
+    ]
+    }

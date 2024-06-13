@@ -1,0 +1,300 @@
+{
+  "totalresults": [
+    {
+      "state_id": 32,
+      "party_name": "BJP",
+      "lead": "0",
+      "won": "39",
+      "total": 303,
+      "change": "-49"
+    },
+    {
+      "state_id": 32,
+      "party_name": "SHS",
+      "lead": "0",
+      "won": "64",
+      "total": 18,
+      "change": "+45"
+    },
+    {
+      "state_id": 32,
+      "party_name": "JDU",
+      "lead": "0",
+      "won": "8",
+      "total": 16,
+      "change": "+7"
+    },
+    {
+      "state_id": 32,
+      "party_name": "LJSP",
+      "lead": "0",
+      "won": "7",
+      "total": 6,
+      "change": ""
+    },
+    {
+      "state_id": 32,
+      "party_name": "SAD",
+      "lead": "0",
+      "won": "1",
+      "total": 2,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "ADS",
+      "lead": "0",
+      "won": "1",
+      "total": 2,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "AIDMK",
+      "lead": "0",
+      "won": "1",
+      "total": 2,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "MNF",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "SDF",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "NDPP",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "NPP",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "RLTP",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "AJSU",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "party_name": "IND",
+      "lead": "0",
+      "won": "1",
+      "total": 1,
+      "change": "-3"
+    },
+    {
+      "state_id": 32,
+      "parties": "BJP+ PARTIES",
+      "total_seats": 119,
+      "won_seats": 119,
+      "lead_seats": 0,
+      "total_count": 119
+    },
+    {
+        "state_id": 20,
+        "party_name": "TDP",
+        "lead": "0",
+        "won": "163",
+        "total": 52,
+        "change": "+36"
+      },
+      {
+        "state_id": 20,
+        "party_name": "YCP",
+        "lead": "0",
+        "won": "66",
+        "total": 23,
+        "change": "-30"
+      },
+      {
+        "state_id": 20,
+        "party_name": "TRS",
+        "lead": "0",
+        "won": "1",
+        "total": 5,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "JKNC",
+        "lead": "0",
+        "won": "1",
+        "total": 3,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "IUML",
+        "lead": "0",
+        "won": "1",
+        "total": 3,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "JMM",
+        "lead": "0",
+        "won": "1",
+        "total": 1,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "JDS",
+        "lead": "0",
+        "won": "1",
+        "total": 1,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "KCM",
+        "lead": "0",
+        "won": "1",
+        "total": 1,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "VCK",
+        "lead": "0",
+        "won": "1",
+        "total": 1,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "party_name": "RSP",
+        "lead": "0",
+        "won": "1",
+        "total": 1,
+        "change": "-6"
+      },
+      {
+        "state_id": 20,
+        "parties": "OTHERS",
+        "total_seats": 230,
+        "won_seats": 230,
+        "lead_seats": 0,
+        "total_count": 230
+      },
+    {
+      "state_id": 29,
+      "party_name": "INC",
+      "lead": "0",
+      "won": "115",
+      "total": "52",
+      "change": "+42"
+    },
+    {
+      "state_id": 29,
+      "party_name": "DMK",
+      "lead": "0",
+      "won": "70",
+      "total": 23,
+      "change": "-30"
+    },
+    {
+      "state_id": 29,
+      "party_name": "NCP",
+      "lead": "0",
+      "won": "14",
+      "total": 5,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "JKNC",
+      "lead": "0",
+      "won": "14",
+      "total": 3,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "IUML",
+      "lead": "0",
+      "won": "14",
+      "total": 3,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "JMM",
+      "lead": "0",
+      "won": "14",
+      "total": 1,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "JDS",
+      "lead": "0",
+      "won": "14",
+      "total": 1,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "KCM",
+      "lead": "0",
+      "won": "14",
+      "total": 1,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "VCK",
+      "lead": "0",
+      "won": "14",
+      "total": 1,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "party_name": "RSP",
+      "lead": "0",
+      "won": "14",
+      "total": 1,
+      "change": "-13"
+    },
+    {
+      "state_id": 29,
+      "parties": "INC+ PARTIES",
+      "total_seats": 199,
+      "won_seats": 199,
+      "lead_seats": 0,
+      "total_count": 199
+    }
+  ]
+}

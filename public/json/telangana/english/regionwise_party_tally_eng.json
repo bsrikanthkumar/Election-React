@@ -1,0 +1,36 @@
+{
+    "results": [
+    {
+    "region_name": "DAKSHINA TELANGANA",
+    "region_name_english": "DAKSHINA TELANGANA",
+    "total_seats": 75,
+    "count_seats": "75",
+    "brs_won": "28",
+    "brs_lead": "0",
+    "inc_won": "38",
+    "inc_lead": "0",
+    "bjp_won": "1",
+    "bjp_lead": "0",
+    "aimim_won": "7",
+    "aimim_lead": "0",
+    "oth_won": "1",
+    "oth_lead": "0"
+    },
+    {
+    "region_name": "UTTARA TELANGANA",
+    "region_name_english": "UTTARA TELANGANA",
+    "total_seats": 44,
+    "count_seats": "44",
+    "brs_won": "11",
+    "brs_lead": "0",
+    "inc_won": "26",
+    "inc_lead": "0",
+    "bjp_won": "7",
+    "bjp_lead": "0",
+    "aimim_won": "0",
+    "aimim_lead": "0",
+    "oth_won": "0",
+    "oth_lead": "0"
+    }
+    ]
+    }

@@ -1,0 +1,957 @@
+
+{
+    "results": [
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ACHAMPET",
+    "const_name_english": "ACHAMPET",
+    "candidate_name": "CHIKKUDU VAMSHI KRISHNA",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ADILABAD",
+    "const_name_english": "ADILABAD",
+    "candidate_name": "PAYAL SHANKAR",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ALAIR",
+    "const_name_english": "ALAIR",
+    "candidate_name": "BEERLA ILAIAH",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ALAMPUR",
+    "const_name_english": "ALAMPUR",
+    "candidate_name": "VIJAYUDU",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "AMBERPET",
+    "const_name_english": "AMBERPET",
+    "candidate_name": "KALERU VENKATESHAM",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ANDOLE",
+    "const_name_english": "ANDOLE",
+    "candidate_name": "C DAMODAR RAJANARSIMHA",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ARMUR",
+    "const_name_english": "ARMUR",
+    "candidate_name": "RAKESH REDDY PAIDI",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ASIFABAD",
+    "const_name_english": "ASIFABAD",
+    "candidate_name": "KOVA LAKSHMI",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ASWARAOPETA",
+    "const_name_english": "ASWARAOPETA",
+    "candidate_name": "ADINARAYANA JARE",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BAHADURPURA",
+    "const_name_english": "BAHADURPURA",
+    "candidate_name": "MOHAMMED MUBEEN",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BALKONDA",
+    "const_name_english": "BALKONDA",
+    "candidate_name": "VEMULA PRASHANTH REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BANSUWADA",
+    "const_name_english": "BANSUWADA",
+    "candidate_name": "POCHARAM SRINIVAS REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BELLAMPALLI",
+    "const_name_english": "BELLAMPALLI",
+    "candidate_name": "GADDAM VINOD",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BHADRACHALAM",
+    "const_name_english": "BHADRACHALAM",
+    "candidate_name": "THELLAM VENKATRAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BHONGIR",
+    "const_name_english": "BHONGIR",
+    "candidate_name": "KUMBAM ANIL KUMAR REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BHUPALPALLE",
+    "const_name_english": "BHUPALPALLE",
+    "candidate_name": "GANDRA SATYANARAYANA RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BOATH",
+    "const_name_english": "BOATH",
+    "candidate_name": "ANIL JADHAV",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "BODHAN",
+    "const_name_english": "BODHAN",
+    "candidate_name": "P SUDARSHAN REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "CHANDRAYANAGUTTA",
+    "const_name_english": "CHANDRAYANAGUTTA",
+    "candidate_name": "AKBAR UDDIN OWAISI",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "CHARMINAR",
+    "const_name_english": "CHARMINAR",
+    "candidate_name": "MIR ZULFEQAR ALI",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "CHENNURU",
+    "const_name_english": "CHENNURU",
+    "candidate_name": "GADDAM VIVEKANAND",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "CHEVELLA",
+    "const_name_english": "CHEVELLA",
+    "candidate_name": "KALE YADAIAH",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "CHOPPADANDI",
+    "const_name_english": "CHOPPADANDI",
+    "candidate_name": "MEDIPALLI SATHYAM",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "DEVARAKONDA",
+    "const_name_english": "DEVARAKONDA",
+    "candidate_name": "BALU NAYAK NENAVATH",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "DEVARKADRA",
+    "const_name_english": "DEVARKADRA",
+    "candidate_name": "GAVINOLLA MADHUSUDAN REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "DHARMAPURI",
+    "const_name_english": "DHARMAPURI",
+    "candidate_name": "ADLURI LAXMAN KUMAR",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "DORNAKAL",
+    "const_name_english": "DORNAKAL",
+    "candidate_name": "J RAMACHANDRA NAYAK",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "DUBBAK",
+    "const_name_english": "DUBBAK",
+    "candidate_name": "KOTTA PRABHAKAR REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "GADWAL",
+    "const_name_english": "GADWAL",
+    "candidate_name": "BANDLA KRISHNAMOHAN REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "GAJWEL",
+    "const_name_english": "GAJWEL",
+    "candidate_name": "KALVAKUNTLA CHANDRASHEKAR RAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "GOSHAMAHAL",
+    "const_name_english": "GOSHAMAHAL",
+    "candidate_name": "T RAJA SINGH",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "HUSNABAD",
+    "const_name_english": "HUSNABAD",
+    "candidate_name": "PONNAM PRABHAKAR",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "HUZURABAD",
+    "const_name_english": "HUZURABAD",
+    "candidate_name": "KAUSHIK REDDY PADI",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "HUZURNAGAR",
+    "const_name_english": "HUZURNAGAR",
+    "candidate_name": "N UTTAM KUMAR REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "IBRAHIMPATNAM",
+    "const_name_english": "IBRAHIMPATNAM",
+    "candidate_name": "MALREDDY RANGA REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "JADCHERLA",
+    "const_name_english": "JADCHERLA",
+    "candidate_name": "J ANIRUDH REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "JAGITIAL",
+    "const_name_english": "JAGITIAL",
+    "candidate_name": "M SANJAY KUMAR",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "JANGAON",
+    "const_name_english": "JANGAON",
+    "candidate_name": "PALLA RAJESWAR REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "JUBILEE HILLS",
+    "const_name_english": "JUBILEE HILLS",
+    "candidate_name": "MAGANTI GOPINATH",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "JUKKAL",
+    "const_name_english": "JUKKAL",
+    "candidate_name": "THOTA LAXMI KANTHA RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KALWAKURTHY",
+    "const_name_english": "KALWAKURTHY",
+    "candidate_name": "KASIREDDY NARAYAN REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KAMAREDDY",
+    "const_name_english": "KAMAREDDY",
+    "candidate_name": "KATIPALLY VENKATA RAMANA REDDY",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KARIMNAGAR",
+    "const_name_english": "KARIMNAGAR",
+    "candidate_name": "GANGULA KAMALAKAR",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KARWAN",
+    "const_name_english": "KARWAN",
+    "candidate_name": "KAUSAR MOHIUDDIN",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KHAIRATABAD",
+    "const_name_english": "KHAIRATABAD",
+    "candidate_name": "DANAM NAGENDER",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KHAMMAM",
+    "const_name_english": "KHAMMAM",
+    "candidate_name": "TUMMALA NAGESWAR RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KHANAPUR",
+    "const_name_english": "KHANAPUR",
+    "candidate_name": "VEDMA BHOJJU",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KODAD",
+    "const_name_english": "KODAD",
+    "candidate_name": "N PADMAVATHI REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KODANGAL",
+    "const_name_english": "KODANGAL",
+    "candidate_name": "ANUMULA REVANTH REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KOLLAPUR",
+    "const_name_english": "KOLLAPUR",
+    "candidate_name": "JUPALLY KRISHNA RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KORATLA",
+    "const_name_english": "KORATLA",
+    "candidate_name": "KALVAKUNTLA SANJAY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KOTHAGUDEM",
+    "const_name_english": "KOTHAGUDEM",
+    "candidate_name": "KUNAMNENI SAMBASIVA RAO",
+    "party_name": "CPI",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "KUKATPALLE",
+    "const_name_english": "KUKATPALLE",
+    "candidate_name": "MADHAVARAM KRISHNARAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "L.B.NAGAR",
+    "const_name_english": "L.B.NAGAR",
+    "candidate_name": "DEVIREDDY SUDHEER REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MADHIRA",
+    "const_name_english": "MADHIRA",
+    "candidate_name": "BHATI VIKRAMARKA MALLU",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MAHABUBABAD",
+    "const_name_english": "MAHABUBABAD",
+    "candidate_name": "MURALI NAIK BHUKYA",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MAHBUBNAGAR",
+    "const_name_english": "MAHBUBNAGAR",
+    "candidate_name": "YENNAM SRINIVAS REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MAHESWARAM",
+    "const_name_english": "MAHESWARAM",
+    "candidate_name": "PATLOLLA SABITHA INDRAREDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MAKTHAL",
+    "const_name_english": "MAKTHAL",
+    "candidate_name": "VAKITI SRIHARI",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MALAKPET",
+    "const_name_english": "MALAKPET",
+    "candidate_name": "AHMED BIN ABDULLAH BALALA",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MALKAJGIRI",
+    "const_name_english": "MALKAJGIRI",
+    "candidate_name": "MARRI RAJASEKHAR REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MANAKONDUR",
+    "const_name_english": "MANAKONDUR",
+    "candidate_name": "KAVVAMPALLY SATYANARAYANA",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MANCHIRYALA",
+    "const_name_english": "MANCHIRYALA",
+    "candidate_name": "KOKKIRALA PREM SAGAR RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MANTHANI",
+    "const_name_english": "MANTHANI",
+    "candidate_name": "DUDDILLA SRIDHAR BABU",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MEDAK",
+    "const_name_english": "MEDAK",
+    "candidate_name": "MYNAMPALLY ROHIT RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MEDCHAL",
+    "const_name_english": "MEDCHAL",
+    "candidate_name": "CHAMAKURA MALLA REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MIRYALAGUDA",
+    "const_name_english": "MIRYALAGUDA",
+    "candidate_name": "BATHULA LAXMA REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MUDHOLE",
+    "const_name_english": "MUDHOLE",
+    "candidate_name": "RAMARAO PAWAR",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MULUGU",
+    "const_name_english": "MULUGU",
+    "candidate_name": "ANASUYA SEETHAKKA DANASARI",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MUNUGODE",
+    "const_name_english": "MUNUGODE",
+    "candidate_name": "KOMATIREDDY RAJGOPAL REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "MUSHEERABAD",
+    "const_name_english": "MUSHEERABAD",
+    "candidate_name": "MUTA GOPAL",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NAGARJUNASAGAR",
+    "const_name_english": "NAGARJUNASAGAR",
+    "candidate_name": "KUNDURU JAYAVEER",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NAGARKURNOOL",
+    "const_name_english": "NAGARKURNOOL",
+    "candidate_name": "K RAJESH REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NAKREKAL",
+    "const_name_english": "NAKREKAL",
+    "candidate_name": "VEEMULA VEERASHAM",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NALGONDA",
+    "const_name_english": "NALGONDA",
+    "candidate_name": "KOMATIREDDY VENKAT REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NAMPALLY",
+    "const_name_english": "NAMPALLY",
+    "candidate_name": "MOHAMMED MAJID HUSSAIN",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NARAYANKHED",
+    "const_name_english": "NARAYANKHED",
+    "candidate_name": "P SANJEEVA REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NARAYANPET",
+    "const_name_english": "NARAYANPET",
+    "candidate_name": "CHITTEM PARNIKA REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NARSAMPET",
+    "const_name_english": "NARSAMPET",
+    "candidate_name": "DONTHI MADHAVA REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NARSAPUR",
+    "const_name_english": "NARSAPUR",
+    "candidate_name": "VAKITI SUNITHA LAKSHMA REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NIRMAL",
+    "const_name_english": "NIRMAL",
+    "candidate_name": "ALLETI MAHESHWAR REDDY",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NIZAMABAD RURAL",
+    "const_name_english": "NIZAMABAD RURAL",
+    "candidate_name": "REKULAPALLY BHOOPATHI REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "NIZAMABAD URBAN",
+    "const_name_english": "NIZAMABAD URBAN",
+    "candidate_name": "DHANPAL SURYANARAYANA",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PALAIR",
+    "const_name_english": "PALAIR",
+    "candidate_name": "PONGULETI SRINIVAS REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PALAKURTHI",
+    "const_name_english": "PALAKURTHI",
+    "candidate_name": "MAMIDALA YASHASHWINI",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PARGI",
+    "const_name_english": "PARGI",
+    "candidate_name": "T RAM MOHAN REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PARKAL",
+    "const_name_english": "PARKAL",
+    "candidate_name": "REVURI PRAKASH REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PATANCHERU",
+    "const_name_english": "PATANCHERU",
+    "candidate_name": "GUDEM MAHIPAL REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PEDDAPALLE",
+    "const_name_english": "PEDDAPALLE",
+    "candidate_name": "CHINTAKUNTA VIJAYA RAMANA RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "PINAPAKA",
+    "const_name_english": "PINAPAKA",
+    "candidate_name": "PAYAM VENKATESWARULU",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "QUTHBULLAPUR",
+    "const_name_english": "QUTHBULLAPUR",
+    "candidate_name": "K.P.VIVEKANANDA",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "RAJENDRANAGAR",
+    "const_name_english": "RAJENDRANAGAR",
+    "candidate_name": "T.PRAKSH GOUD",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "RAMAGUNDAM",
+    "const_name_english": "RAMAGUNDAM",
+    "candidate_name": "MAKKAN SINGH RAJ THAKUR",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SANATHNAGAR",
+    "const_name_english": "SANATHNAGAR",
+    "candidate_name": "TALASANI SRINIVAS YADAV",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SANGAREDDY",
+    "const_name_english": "SANGAREDDY",
+    "candidate_name": "CHINTHA PRABHAKAR",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SATHUPALLE",
+    "const_name_english": "SATHUPALLE",
+    "candidate_name": "MATTA RAGAMAYEE",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SECUNDERABAD",
+    "const_name_english": "SECUNDERABAD",
+    "candidate_name": "T.PADMARAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SECUNDERABAD CONTONMENT",
+    "const_name_english": "SECUNDERABAD CONTONMENT",
+    "candidate_name": "G LASYA NANDITHA",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SERILINGAMPALLY",
+    "const_name_english": "SERILINGAMPALLY",
+    "candidate_name": "ARIKEPUDI GANDHI",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SHADNAGAR",
+    "const_name_english": "SHADNAGAR",
+    "candidate_name": "K SHANKARAIAH",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SIDDIPET",
+    "const_name_english": "SIDDIPET",
+    "candidate_name": "THANNERU HARISH RAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SIRCILLA",
+    "const_name_english": "SIRCILLA",
+    "candidate_name": "KALVAKUNTLA TARAKA RAMARAO",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SIRPUR",
+    "const_name_english": "SIRPUR",
+    "candidate_name": "PALVAI HARISH BABU",
+    "party_name": "BJP",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "STATION GHANPUR",
+    "const_name_english": "STATION GHANPUR",
+    "candidate_name": "KADIYAM SRIHARI",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "SURYAPET",
+    "const_name_english": "SURYAPET",
+    "candidate_name": "GUNTAKANDLA JAGADEESH REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "TANDUR",
+    "const_name_english": "TANDUR",
+    "candidate_name": "B MANOHAR REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "THUNGATHURTHI",
+    "const_name_english": "THUNGATHURTHI",
+    "candidate_name": "MANDULA SAMUEL",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "UPPAL",
+    "const_name_english": "UPPAL",
+    "candidate_name": "BANDARU LAKSHMA REDDY",
+    "party_name": "BRS",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "VEMULAWADA",
+    "const_name_english": "VEMULAWADA",
+    "candidate_name": "AADI SRINIVAS",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "VIKARABAD",
+    "const_name_english": "VIKARABAD",
+    "candidate_name": "GADDAM PRASAD KUMAR",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "WANAPARTHY",
+    "const_name_english": "WANAPARTHY",
+    "candidate_name": "MEGHA REDDY TUDI",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "WARADHANAPET",
+    "const_name_english": "WARADHANAPET",
+    "candidate_name": "K R NAGARAJU",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "WARANGAL EAST",
+    "const_name_english": "WARANGAL EAST",
+    "candidate_name": "KONDA SUREKHA",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "WARANGAL WEST",
+    "const_name_english": "WARANGAL WEST",
+    "candidate_name": "NAINI RAJENDER REDDY",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "WYRA",
+    "const_name_english": "WYRA",
+    "candidate_name": "RAMDAS MALOTH",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "YAKUTPURA",
+    "const_name_english": "YAKUTPURA",
+    "candidate_name": "JAFFAR HUSSAIN",
+    "party_name": "AIMIM",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "YELLANDU",
+    "const_name_english": "YELLANDU",
+    "candidate_name": "KANAKAIAH KORAM",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "YELLAREDDY",
+    "const_name_english": "YELLAREDDY",
+    "candidate_name": "K MADAN MOHAN RAO",
+    "party_name": "INC",
+    "status": "WON"
+    },
+    {
+    "state_name": "TELANGANA",
+    "const_name": "ZAHEERABAD",
+    "const_name_english": "ZAHEERABAD",
+    "candidate_name": "KONINTY MANIK RAO",
+    "party_name": "BRS",
+    "status": "WON"
+    }
+    ]
+    }
